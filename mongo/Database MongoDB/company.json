@@ -1,0 +1,141 @@
+[{
+  "_id": "PINJ-20180001",
+  "namaperush": "PLN",
+  "alamatperush": "Bulungan, Jakarta Selatan",
+  "telpperush": "021-3214569",
+  "jbtpeminjam": "Teknisi Lapangan",
+  "divpeminjam": "Operasional"
+},{
+  "_id": "PINJ-20180002",
+  "namaperush": "PLN",
+  "alamatperush": "Bulungan, Jakarta Selatan",
+  "telpperush": "021-3214569",
+  "jbtpeminjam": "Pegawai Tetap",
+  "divpeminjam": "Administrasi"
+},{
+  "_id": "PINJ-20180003",
+  "namaperush": "PLN",
+  "alamatperush": "Jakarta Selatan",
+  "telpperush": "021-3214569",
+  "jbtpeminjam": "Pegawai Tetap",
+  "divpeminjam": "Administrasi"
+},{
+  "_id": "PINJ-20180004",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Ad"
+},{
+  "_id": "PINJ-20180005",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Administrasi"
+},{
+  "_id": "PINJ-20180006",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Operasional"
+},{
+  "_id": "PINJ-20180009",
+  "namaperush": "PLN",
+  "alamatperush": "Jakarta Selatan",
+  "telpperush": "021-3214569",
+  "jbtpeminjam": "Teknisi Lapangan",
+  "divpeminjam": "Operasional"
+},{
+  "_id": "PINJ-20180010",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Keuangan"
+},{
+  "_id": "PINJ-20180011",
+  "namaperush": "PT Dunia Express",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-3214569",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Keuangan"
+},{
+  "_id": "PINJ-20180012",
+  "namaperush": "PLN",
+  "alamatperush": "Bulungan, Jakarta Selatan",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Teknologi Informasi"
+},{
+  "_id": "PINJ-20180013",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-3214569",
+  "jbtpeminjam": "Teknisi Lapangan",
+  "divpeminjam": "Operasional"
+},{
+  "_id": "PINJ-20180014",
+  "namaperush": "PLN",
+  "alamatperush": "Bulungan, Jakarta Selatan",
+  "telpperush": "021-1235879",
+  "jbtpeminjam": "Teknisi Lapangan",
+  "divpeminjam": "Operasional"
+},{
+  "_id": "PINJ-20180016",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Keuangan"
+},{
+  "_id": "PINJ-20180015",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Keuangan"
+},{
+  "_id": "PINJ-20180017",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Keuangan"
+},{
+  "_id": "PINJ-20180018",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Administrasi"
+},{
+  "_id": "PINJ-20180019",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Staff",
+  "divpeminjam": "Keuangan"
+},{
+  "_id": "PINJ-20180020",
+  "namaperush": "Chevron Indonesia Company",
+  "alamatperush": "Jakarta Pusat",
+  "telpperush": "021-5896587",
+  "jbtpeminjam": "Bendahara",
+  "divpeminjam": "Keuangan"
+},{
+  "_id": "PINJ-20190001",
+  "namaperush": "bumn",
+  "alamatperush": "ancol",
+  "telpperush": "021-123456",
+  "jbtpeminjam": "direktur",
+  "divpeminjam": "it"
+},{
+  "_id": "PINJ-20200001",
+  "namaperush": "pt abc",
+  "alamatperush": "ancol",
+  "telpperush": "021333",
+  "jbtpeminjam": "staff",
+  "divpeminjam": "hrd"
+}]

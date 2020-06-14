@@ -1,0 +1,91 @@
+[{
+  "_id": "QC-APPR-PINJ-20180001",
+  "tglapprove": "2018-12-31",
+  "kodepinjam": "PINJ-20180001",
+  "namapeminjam": "Adi Cahyono",
+  "jmlpinjam": "10000000",
+  "lamapinjam": "24",
+  "namaperush": "PLN",
+  "namadarurat": "Jumiyati",
+  "status": "1"
+},{
+  "_id": "QC-APPR-PINJ-20180002",
+  "tglapprove": "2018-12-31",
+  "kodepinjam": "PINJ-20180002",
+  "namapeminjam": "Ahmad Heryawan",
+  "jmlpinjam": "200000000",
+  "lamapinjam": "60",
+  "namaperush": "PLN",
+  "namadarurat": "Chairunissa",
+  "status": "1"
+},{
+  "_id": "QC-RJCT-PINJ-20180003",
+  "tglapprove": "31-12-2018",
+  "kodepinjam": "PINJ-20180003",
+  "namapeminjam": "Achmad Fadjar",
+  "jmlpinjam": "125000000",
+  "lamapinjam": "48",
+  "namaperush": "PLN",
+  "namadarurat": "Achmad Faried Joesoef",
+  "status": "2"
+},{
+  "_id": "QC-RJCT-PINJ-20180004",
+  "tglapprove": "31-12-2018",
+  "kodepinjam": "PINJ-20180004",
+  "namapeminjam": "Adelina Prasetio",
+  "jmlpinjam": "150000000",
+  "lamapinjam": "36",
+  "namaperush": "Chevron Indonesia Company",
+  "namadarurat": "Adhi Utomo",
+  "status": "2"
+},{
+  "_id": "QC-RJCT-PINJ-20180005",
+  "tglapprove": "31-12-2018",
+  "kodepinjam": "PINJ-20180005",
+  "namapeminjam": "Adriana Maya Politon",
+  "jmlpinjam": "120000000",
+  "lamapinjam": "48",
+  "namaperush": "Chevron Indonesia Company",
+  "namadarurat": "Adryansyah ",
+  "status": "2"
+},{
+  "_id": "QC-RJCT-PINJ-20180006",
+  "tglapprove": "31-12-2018",
+  "kodepinjam": "PINJ-20180006",
+  "namapeminjam": "Agus Susanto",
+  "jmlpinjam": "50000000",
+  "lamapinjam": "12",
+  "namaperush": "Chevron Indonesia Company",
+  "namadarurat": "Uwat ",
+  "status": "2"
+},{
+  "_id": "QC-APPR-PINJ-20180009",
+  "tglapprove": "2019-12-17",
+  "kodepinjam": "PINJ-20180009",
+  "namapeminjam": "Tunggono ",
+  "jmlpinjam": "25000000",
+  "lamapinjam": "12",
+  "namaperush": "PLN",
+  "namadarurat": "Tungcahyo",
+  "status": "1"
+},{
+  "_id": "QC-APPR-PINJ-20190001",
+  "tglapprove": "2019-12-17",
+  "kodepinjam": "PINJ-20190001",
+  "namapeminjam": "rudi barus",
+  "jmlpinjam": "1000000000",
+  "lamapinjam": "24",
+  "namaperush": "bumn",
+  "namadarurat": "iis",
+  "status": "1"
+},{
+  "_id": "QC-APPR-PINJ-20200001",
+  "tglapprove": "2020-06-12",
+  "kodepinjam": "PINJ-20200001",
+  "namapeminjam": "maryam",
+  "jmlpinjam": "10000000",
+  "lamapinjam": "12",
+  "namaperush": "pt abc",
+  "namadarurat": "iis",
+  "status": "1"
+}]

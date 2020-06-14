@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474403"
+  },
+  "kodepinjam": "PINJ-20180001",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474404"
+  },
+  "kodepinjam": "PINJ-20180002",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-10-30",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474405"
+  },
+  "kodepinjam": "PINJ-20180003",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-11-14",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474406"
+  },
+  "kodepinjam": "PINJ-20180004",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-12-21",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474407"
+  },
+  "kodepinjam": "PINJ-20180005",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-12-04",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474408"
+  },
+  "kodepinjam": "PINJ-20180006",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-12-04",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca047440b"
+  },
+  "kodepinjam": "PINJ-20180009",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2018-12-05",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca047440c"
+  },
+  "kodepinjam": "PINJ-20180010",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2018-12-05",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca047440d"
+  },
+  "kodepinjam": "PINJ-20180011",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2018-12-05",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca047440e"
+  },
+  "kodepinjam": "PINJ-20180012",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca047440f"
+  },
+  "kodepinjam": "PINJ-20180013",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474410"
+  },
+  "kodepinjam": "PINJ-20180014",
+  "namasales": "Rendi Satyaji",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474411"
+  },
+  "kodepinjam": "PINJ-20180016",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474412"
+  },
+  "kodepinjam": "PINJ-20180015",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474413"
+  },
+  "kodepinjam": "PINJ-20180017",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474414"
+  },
+  "kodepinjam": "PINJ-20180018",
+  "namasales": "Rendi Satyadi",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474415"
+  },
+  "kodepinjam": "PINJ-20180019",
+  "namasales": "Rendi Satyadi",
+  "tglpinjam": "2018-12-06",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8853054eb801ca0474416"
+  },
+  "kodepinjam": "PINJ-20180020",
+  "namasales": "Rendi Satyadi",
+  "tglpinjam": "2018-12-05",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5df8eec0c4b72eb828000029"
+  },
+  "kodepinjam": "PINJ-20190001",
+  "namasales": "Putri Permana",
+  "tglpinjam": "2019-12-17",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+},{
+  "_id": {
+    "$oid": "5ee31be7c4b72ef42c000029"
+  },
+  "kodepinjam": "PINJ-20200001",
+  "namasales": "rudi",
+  "tglpinjam": "2020-06-12",
+  "filektp": "",
+  "filenpwp": "",
+  "fileslip": ""
+}]
